@@ -1,1 +1,2 @@
 Feature: Integração com IA para gerar tópicos e roteiros de podcasts automaticamente.
+Feature: "Integrar IA para criar tópicos personalizados de podcast com base em tendências atuais."
